@@ -1,0 +1,30 @@
+/* CSS stiilide fail */
+
+h1 {
+  font-family: 'Brush Script MT', cursive;
+}
+
+.h1_java {
+  color: coral;
+}
+
+.h1_script {
+  color: forestgreen
+}
+
+/* Sinu CSS siit allapoole */
+
+table {
+  border-collapse: collapse;
+}
+
+td {
+  border: 1px solid black;
+  border-collapse: collapse;
+  width: 100px;
+  height: 100px;
+  text-align: center;
+  vertical-align: middle;
+  font-size: 80px;
+  background-color: whitesmoke;
+}
